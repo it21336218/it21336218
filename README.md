@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **BEng (Hons) Software Engineering at IIT**
+- 🌱 I’m currently learning **BEng (Hons) Software Engineering at SLIIT**
 - 📫 How to reach me **sonalshaminda01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
