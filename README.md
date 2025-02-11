@@ -1,57 +1,79 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Sonal Fernando</h1>
-<h3 align="center">A passionate Full Stack developer.</h3>
+# 📌 Sonal Fernando  
+**👨‍💻 Full-Stack Developer | 🌍 Sri Lanka | 🚀 Tech Enthusiast**  
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47vyppxxyk5tvs1ff8sja71xukl6tvas5vbz75mvrb&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sonalfernando/)  
+[![GitHub](https://img.shields.io/github/followers/SonalFernando?label=Follow&style=social)](https://github.com/SonalFernando)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](your-portfolio-link-here)  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sonal&label=Profile%20views&color=0e75b6&style=flat" alt="sonal" />
+---
+
+## 🚀 About Me  
+- 🔭 Currently working as a **Full-Stack Developer** at **Sri Lanka Telecom**  
+- 🎓 Pursuing a **BSc in Information Technology** at **SLIIT**  
+- 🔬 Researching **AI & Sentiment Analysis for Tourism Enhancement**  
+- ⚡ Passionate about **Web Development, AI, and Cloud Computing**  
+- 🌱 Exploring **Flutter, Node.js, ASP.NET, and AI-based solutions**  
+
+---
+
+## 🛠 Tech Stack  
+**💻 Programming:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
+
+**🌐 Web:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
+
+**📱 Mobile:**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
+
+**☁️ Cloud & DB:**  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonalFernando&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Sonal Fernando's GitHub Stats" />
 </p>
 
-- 🌱 I’m currently learning **BEng (Hons) Software Engineering at SLIIT**
-- 💎 How to reach me **sonalshaminda01@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sonal-fernando1/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonal fernando" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/__.s_u_n_n_a.__/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sonal" height="30" width="40" />
-  </a>
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonalFernando&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
+---
+
+## 📌 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonalFernando&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonal&show_icons=true&locale=en&layout=compact" alt="sonal" />
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SonalFernando&theme=radical&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonal&show_icons=true&locale=en" alt="sonal" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonal&" alt="sonal" />
-</p>
+
+---
+
+## 📢 Let's Connect!  
+📧 Email: **your-email@example.com**  
+🌐 Portfolio: **[Your Portfolio Link](your-portfolio-link-here)**  
+
+---
+
+## 🚀 Pro Tips for Commit Count Issues  
+- If your **total commits show as 0**, ensure **"Include private contributions"** is enabled in GitHub settings.  
+- **GitHub API restrictions** might prevent private commit display. Consider hosting your own Vercel instance.  
+- Visit **[Your GitHub Contributions Graph](https://github.com/SonalFernando)** to manually verify your commit count.  
+
+---
+
+🔥 This README makes your profile stand out! Update links and enjoy a **pro-level GitHub profile** 🚀🔥
