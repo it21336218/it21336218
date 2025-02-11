@@ -44,14 +44,14 @@
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonalFernando&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonal Fernando&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📌 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonalFernando&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonal Fernando&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
