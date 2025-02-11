@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonalFernando&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Sonal Fernando's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonal Fernando&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Sonal Fernando's GitHub Stats" />
 </p>
 
 ---
