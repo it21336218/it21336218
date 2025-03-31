@@ -65,7 +65,6 @@ Detailed insights into my professional journey:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=it21336218&show_icons=true&theme=radical&border_radius=15)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=it21336218&theme=radical&border_radius=15)
 
