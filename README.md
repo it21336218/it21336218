@@ -6,6 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=it21336218&label=Profile%20views&color=0e75b6&style=flat" alt="it21336218" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/sonalfernando/sonalfernando/blob/main/coding-animation.gif?raw=true" alt="Coding Animation" width="500"/>
+</p>
+
 ---
 
 ### 🌟 About Me
@@ -64,7 +68,6 @@ Detailed insights into my professional journey:
 ### 📊 GitHub Insights
 
 <div align="center">
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=it21336218&theme=radical&border_radius=15)
 
