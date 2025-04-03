@@ -69,6 +69,8 @@ For detailed insights into my professional journey, download my resume:
 
 <div align="center">
 
+![Sonal's GitHub stats](https://github-readme-stats.vercel.app/api?username=it21336218&show_icons=true&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=it21336218&theme=radical&border_radius=15)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=it21336218&layout=compact&theme=radical&border_radius=15)
