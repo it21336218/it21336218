@@ -14,13 +14,13 @@
 
 ### 🌟 About Me
 
-I'm a passionate and dedicated **Full Stack Developer** based in Sri Lanka, specializing in crafting robust, scalable, and interactive web applications. With expertise in modern frontend technologies like React and Next.js, coupled with solid backend experience using Node.js, Express, and MongoDB, I deliver comprehensive digital solutions. I'm passionate about creating intuitive UI/UX experiences, ensuring every project not only functions impeccably but also delights users.
+I am a passionate and dedicated **Full Stack Developer** from Sri Lanka, specializing in creating robust, scalable, and interactive web applications. With a strong command of frontend technologies like React and Next.js and a solid background in backend development with Node.js, Express, and MongoDB, I provide comprehensive digital solutions. I am deeply committed to enhancing user interfaces and user experiences, ensuring that every project is not only functional but also visually appealing and user-friendly.
 
 ---
 
 ### 💻 Current Projects
 
-- 🌊 [Nexttide Software Solutions](https://github.com/it21336218/NexTide-)
+- 🌊 [Nextide Software Solutions](https://github.com/it21336218/Nextide)
 
 ---
 
@@ -30,7 +30,7 @@ I'm a passionate and dedicated **Full Stack Developer** based in Sri Lanka, spec
 - **Backend:** Node.js, Express.js, Django, Spring Boot
 - **Languages:** JavaScript, TypeScript, Python, Java, C++, C#, Dart, PHP
 - **Databases:** MongoDB, MySQL, PostgreSQL, Oracle, Firebase
-- **Cloud & DevOps:** AWS, Docker, Git, Linux
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Git, Linux
 - **Machine Learning:** TensorFlow, PyTorch
 - **Design & Prototyping:** Figma, Adobe Photoshop
 
@@ -53,15 +53,15 @@ Check out my portfolio website:
 
 ### 📑 Professional Experience
 
-Detailed insights into my professional journey:
+For detailed insights into my professional journey, download my resume:
 
-- 📃 [Download My Resume](https://drive.google.com/file/d/1AKrZuxpBS0Z8Izx4BzSLJwJSd_L9chuj/view?usp=drive_link)
+- 📃 [Download My Resume](https://drive.google.com/file/d/1AKrZuxpBS0Z8Izx4BzSLJwJSd_L9chuj/view?usp=sharing)
 
 ---
 
 ### ⚡ Fun Fact
 
-- 😊 Most people know me as **Sunna**!
+- 😊 I'm affectionately known as **Sunna**!
 
 ---
 
@@ -79,9 +79,8 @@ Detailed insights into my professional journey:
 
 ### 🚀 Open to Collaboration
 
-I'm always enthusiastic about collaborating on exciting projects, open-source contributions, or tech discussions. Feel free to reach out!
+I am always excited to collaborate on innovative projects, contribute to open-source, or engage in technical discussions. Feel free to reach out if you have an idea or project in mind!
 
 ---
 
 ✨ **Crafting Code with Creativity & Passion!** ✨
-
